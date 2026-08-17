@@ -1,0 +1,22 @@
+# Environment variables / secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temp files created by the app
+temp.pdf
+*.pdf
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
